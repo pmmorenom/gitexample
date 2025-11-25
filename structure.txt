@@ -1,5 +1,0 @@
-example.txt
-README.md
-structure.txt
-test_file.txt
-añado nueva línea
